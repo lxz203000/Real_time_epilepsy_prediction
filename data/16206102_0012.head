@@ -1,0 +1,11 @@
+start_ts=2003-09-13 05:17:12.000
+num_samples=921600
+sample_freq=256
+conversion_factor=0.165000
+num_channels=29
+elec_names=[FP1,FP2,F3,F4,C3,C4,P3,P4,O1,O2,F7,F8,T3,T4,T5,T6,FZ,CZ,PZ,SP1,SP2,RS,T1,T2,EOG1,EOG2,EMG,ECG,PHO]
+pat_id=16202
+adm_id=162102
+rec_id=16206102
+duration_in_sec=3600
+sample_bytes=2
